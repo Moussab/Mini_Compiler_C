@@ -1,0 +1,90 @@
+#include<stdio.h>
+int a,b,c;
+const float f,n;
+
+void main()
+{ n = n + 2*f;
+
+
+int a;
+for(i=1;i<n;i++){
+c=c+2;
+
+for(i=1;i<n;i++){
+c=c+2;
+}
+j=j+9;
+
+}
+
+while(a>2)
+{
+a=2+1;
+i++;
+while(a>2)
+{
+a=2+1;
+i++;
+}
+
+}
+
+if(a==0) {i++;
+if(a==0) {i++;}
+else {a=5;}
+i=a+5;
+}
+else {a=5;}
+
+
+void k,ss;
+int ll,n,a,hy,op,m;
+float v,moi,k;
+char t,b;
+float cos, x, n, term, eps, alt;
+const char lo,li,lm;
+/*je suis vraiment fatigué*/ 
+x = 3.14159;
+eps = 0.1;
+kkkkk=kjjjn;
+var=fonction(d,t);
+
+while (term>eps) s=2;gl=k;
+n = 1;
+cos = 1;
+term = 1;
+alt = -1;
+
+int LIO;
+int sdf,nbv;
+term = term * x * x / n / (n+1);
+cos = cos + alt * term;
+alt = -alt;
+n = n + 2;
+
+
+while (term>eps)
+{
+
+int hich;
+int kilo,io;
+for( hich=1;k<n;i++){}
+}
+
+
+
+
+
+for( i=1;i<n;i++){
+while(1)
+{
+a=2+1;
+i++;
+}
+
+}
+
+
+
+}
+
