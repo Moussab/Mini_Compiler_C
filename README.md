@@ -1,5 +1,5 @@
 # Mini_Compiler_C
 Mini Compilateur C le projet nécessite un fichier texte" [test] sans extension[.txt]" pour qu'il puisse lire le pseudo code
-![alt tag](https://www.dropbox.com/home?preview=Table+des+Quadruplets.png)
-![alt tag](https://www.dropbox.com/home?preview=Table+des+symboles.png)
-![alt tag](https://www.dropbox.com/s/o1tbgzygngw2jpb/Erreur.png)
+![alt tag](http://i.imgur.com/wPPuN9F.png)
+![alt tag](http://i.imgur.com/kOR0SbC.png)
+![alt tag](http://i.imgur.com/jpT2pzq.png)
